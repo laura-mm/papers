@@ -27,6 +27,7 @@ the answer is 42
 
 #figures
 some figures here
+Somne more figures here
 
 #conclusions
 I WANT CRACK!
