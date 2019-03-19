@@ -3,8 +3,8 @@ model-measurement comparsion of biomass burning aerosol over west africa
 
 
 # Authors
-Laura
 john smith
+Laura
 
 # Introduction
 this is important for some effect and vectors and biomass.
