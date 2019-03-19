@@ -3,8 +3,9 @@ model-measurement comparsion of biomass burning aerosol over west africa
 
 
 # Authors
-john smith
-Laura
+Laura, uom
+john smith, lives on mars
+
 
 # Introduction
 this is important for some effect and vectors and biomass.
