@@ -22,3 +22,6 @@ particle number concentrations were measured using a tool.
 
 #results
 the answer is 42
+
+#figures
+some figures here
