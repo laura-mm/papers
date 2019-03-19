@@ -5,4 +5,6 @@ Measurements of biomass burning aerosol over west africa
 Laura
 
 # Introduction
-this is important for some effect and vectors and biomass. measurements are to add to this body of knowledge
+this is important for some effect and vectors and biomass.
+see Haywood et al (2000).
+measurements are to add to this body of knowledge.
