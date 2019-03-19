@@ -1,8 +1,9 @@
 # Title
-Measurements of biomass burning aerosol over west africa
+simulations of biomass burning aerosol over west africa
 
 # Authors
 Laura
+john smith
 
 # Introduction
 this is important for some effect and vectors and biomass.
