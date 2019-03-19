@@ -13,3 +13,6 @@ measurements are to add to this body of knowledge using mass spectrometer data (
 
 # simulations
 john box model is consistent with colj as the dominant growth mechanism.
+
+# methods
+we used a mass spectrometer to measure aerosol mass and composition (smith et al 1998).
