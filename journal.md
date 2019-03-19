@@ -5,6 +5,7 @@ model-measurement comparsion of biomass burning aerosol over west africa
 # Authors
 Laura, uom
 john smith, lives on mars
+Christopher Daniel, University of Manchester
 
 
 # Introduction
